@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/591f4e8c-07cd-4fc1-a356-8f8d5d5b20f3
+
 # 📦 Inventory Management System
 
 A fully responsive React-based inventory management application designed to help businesses efficiently manage their product inventory.
@@ -214,11 +218,8 @@ This project is open source and available under the MIT License.
 - Styling uses CSS3 with CSS Grid and Flexbox for layouts
 - Mobile-first responsive design approach
 - No external UI frameworks (pure CSS)
-
-## 🤝 Support
-
-For questions or issues, please refer to the code comments or React documentation at https://react.dev
-
----
-
 **Built with ❤️ using React**
+
+
+https://github.com/user-attachments/assets/ab258b50-cfcb-40d4-b211-cc907c47b5be
+
